@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TRUE for PORTRAIT MODE, FALSE for LANDSCAPE MODE -->
+    <bool name="portrait">true</bool>
+
+    <!-- Splash: enabled and time -->
+    <bool name="splash_enabled">false</bool>
+    <integer name="splash_time">3000</integer>
+
+    <!-- Time of fade animations -->
+    <integer name="fade_time">600</integer>
+
+    <!-- Frame rate -->
+    <integer name="frame_rate">100</integer>
+
+    <!-- FPS counter -->
+    <bool name="showFPS">false</bool>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">One billion</string>
+
+    <string name="notice_exit">Press back again to exit</string>
+
+    <string name="facebook_app_id">187308488492675</string>
+
+</resources>

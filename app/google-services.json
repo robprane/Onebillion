@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810238944518",
+    "firebase_url": "https://onebillion-a4237.firebaseio.com",
+    "project_id": "onebillion-a4237",
+    "storage_bucket": "onebillion-a4237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810238944518:android:009e4b6f9321ef58",
+        "android_client_info": {
+          "package_name": "com.full.app.onebillion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810238944518-60p90ffvp8b5scsj9r7bi74ks23g1re2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.full.app.onebillion",
+            "certificate_hash": "875f5ec67618742d4390d62b1a444a6299767034"
+          }
+        },
+        {
+          "client_id": "810238944518-3tv3gl7eckqjfsv1p1lcstbapu1aljf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9d8gSRPMKD_liSVP3WoeLELIyqlvhzH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810238944518-3tv3gl7eckqjfsv1p1lcstbapu1aljf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

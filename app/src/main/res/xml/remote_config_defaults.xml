@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>mode</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>locale</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>ip</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>url</key>
+        <value>https://www.facebook.com/</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
